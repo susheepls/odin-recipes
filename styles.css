@@ -5,3 +5,7 @@
 body {
     background-color: bisque;
 }
+.recipe{
+    font-family: 'Courier New', monospace;
+    font-weight: 700;
+}
